@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Order summary card
 
 Essa é uma solução para o desafio chamado [Order summary card](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Desafios do Frontend Mentor ajudam você a aprimorar suas habilidades construindo projetos realistas. 
 
