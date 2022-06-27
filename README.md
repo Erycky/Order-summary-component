@@ -32,12 +32,12 @@ Aprendi a aplicar os conceitos de Flexbox de maneira mais organizada, além de a
 
 Pretendo aprimorar a versão mobile para melhor responsividade, resolendo bugs e implementando uma versão para Tablets.
 
-### Useful resources
+### Recursos uteis
 
 - [Alura](https://www.alura.com.br/artigos/css-guia-do-flexbox) - Um guia perfeito de Flexbox para iniciante em CSS e que pretendem usar o Flexbox em seus projetos
 - [getcssscan](https://getcssscan.com/css-box-shadow-examples) - Uma coleção completa de sombras para aplicar em seus projetos, pequenos detalhes fazem toda a diferença.
 
-## Author
+## Autor
 
 - Frontend Mentor - [@Erycky](https://www.frontendmentor.io/profile/Erycky)
 - GitHub - [@Erycky Rayner](https://github.com/Erycky)
